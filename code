@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+m=int(innput())
+print(a**b) # power
+#print(pow(a,b,m))
+print(a**b%m)
